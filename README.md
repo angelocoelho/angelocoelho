@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
   <!--- <a href="meuEmail" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> --->
   <!--- <a href="telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> --->
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/angelocoelho/angelocoelho/blob/output/github-contribution-grid-snake.svg)
  </div>
