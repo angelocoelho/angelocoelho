@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelocoelho
 
-- 👀 I'm learning Front-End Web (HTML, CSS and JavaScript);
+- 👀 I'm learning Front-End Web (HTML, CSS, JavaScript and React);
 <!--- - 🌱 I'm studying Back-End --->
 - 📫 How to reach me ...
 
