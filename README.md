@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @angelocoelho
 
-- 👀 I'm learning Front-End Web (HTML, CSS, JavaScript and React);
+- 👀 I'm a web developer (HTML, CSS, JavaScript, React and Ruby on Rails);
 <!--- - 🌱 I'm studying Back-End --->
-- 📫 How to reach me ...
-
 <!---
 angelocoelho/angelocoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ##
+- 📫 How to reach me ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="angelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
